@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="174.597" height="93.016" viewBox="0 0 174.597 93.016">
+  <defs>
+    <filter id="Path_97" x="0" y="0" width="174.597" height="93.016" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#a2a9b8"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Graph" transform="translate(16.464 11.185)">
+    <g transform="matrix(1, 0, 0, 1, -16.46, -11.18)" filter="url(#Path_97)">
+      <path id="Path_97-2" data-name="Path 97" d="M142,58.325s-7.189-17.917-11.1-17.917-4.448-18.423-8.643-18.423S117.028,39.352,111.8,39.352,105.695,0,102.514,0,100.751,22.167,95,21.984s-5.142-5.479-12.141-5.479S62.695,45.948,55.034,45.948s-5.868-6.6-11.462-6.6S40.278,59.637,28.6,58.325s-7.809-11.8-12.434-12.377c-3.526-.438-2.284,12.377-5.429,12.377s-2.38-5.207-4.666-5.207S4.59,62.579,0,60.77" transform="translate(16.3 11)" fill="none" stroke="#0060a2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="Up_Icon" data-name="Up Icon" transform="translate(0.421 0.424)">
+    <path id="Shape" d="M0,0H25V25H0Z" transform="translate(-0.421 -0.424)" fill="none"/>
+    <path id="Combined_Shape" data-name="Combined Shape" d="M.312,11.123.285,11.1a1,1,0,0,1,0-1.414L7.928,2.039H1.741A1.019,1.019,0,1,1,1.741,0h8.648a1.021,1.021,0,0,1,1.019.975l.36,8.288a1.019,1.019,0,0,1-2.037.089l-.26-5.974L1.727,11.123a1,1,0,0,1-1.415,0Z" transform="translate(6.683 6.592)" fill="#00cd98"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <g id="facebook" transform="translate(-232 -449)">
+    <g id="Ellipse_43" data-name="Ellipse 43" transform="translate(232 449)" fill="#fff" stroke="#fff" stroke-width="1">
+      <circle cx="28" cy="28" r="28" stroke="none"/>
+      <circle cx="28" cy="28" r="27.5" fill="none"/>
+    </g>
+    <g id="Composant_3_15" data-name="Composant 3 – 15" transform="translate(252 469)">
+      <rect id="Rectangle_1458" data-name="Rectangle 1458" width="16" height="16" fill="none"/>
+      <path id="Tracé_1" data-name="Tracé 1" d="M85.422,16V8.711h2.489l.356-2.844H85.422V4.089c0-.8.267-1.422,1.422-1.422h1.511V.089C88,.089,87.111,0,86.133,0a3.431,3.431,0,0,0-3.644,3.733V5.867H80V8.711h2.489V16Z" transform="translate(-76)" fill="#1588ca" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

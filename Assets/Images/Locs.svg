@@ -1,0 +1,8 @@
+<svg id="Locs" xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <circle id="Oval" cx="10" cy="10" r="10" transform="translate(3 3)" fill="#fff" stroke="#2a2a43" stroke-miterlimit="10" stroke-width="1"/>
+  <rect id="Rectangle_4" data-name="Rectangle 4" width="2" height="3" transform="translate(12)" fill="#2a2a43"/>
+  <rect id="Rectangle_4-2" data-name="Rectangle 4" width="2" height="3" transform="translate(12 23)" fill="#2a2a43"/>
+  <rect id="Rectangle_4-3" data-name="Rectangle 4" width="2" height="3" transform="translate(26 12) rotate(90)" fill="#2a2a43"/>
+  <rect id="Rectangle_4-4" data-name="Rectangle 4" width="2" height="3" transform="translate(3 12) rotate(90)" fill="#2a2a43"/>
+  <circle id="Oval-2" data-name="Oval" cx="4" cy="4" r="4" transform="translate(9 9)" fill="#2a2a43" stroke="#2a2a43" stroke-miterlimit="10" stroke-width="1"/>
+</svg>
